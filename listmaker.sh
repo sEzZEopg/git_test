@@ -4,6 +4,7 @@
 #
 # Updates:
 # 06/23/2020 - Created list
+# 07/10/2020 - Updated for GIT 
 # 
 store=${1:-"grocery"}
 line="===============================       "
